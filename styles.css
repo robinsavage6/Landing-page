@@ -9,8 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f5f5f5;
-    color: #333;
+    background-color: yellow;
 }
 
 header, .cta, footer {
@@ -21,9 +20,15 @@ header, .cta, footer {
 h1, h2 {
     margin-bottom: 20px;
 }
+img{width: 200px; height: auto;
+float: left;
+margin: 2px;
+padding: 5px;
+border: white;
+}
 
 ul {
-    list-style-type: none;
+    list-style-type: square;
 }
 
 /* Header styles */
